@@ -30,6 +30,8 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Imp         | :imp:                  | Runs on BSD                        |
 | Floppy Disk | :floppy_disk:          | Runs on DOS                        |
 | Globe       | :globe_with_meridians: | Runs on the web                    |
+| Robot       | :robot:                | Runs on Android                    |
+| Mobile Phone| :iphone:               | Runs on iOS                        |
 
 
 
