@@ -85,9 +85,9 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | 💻🍎🐧   |
 
 ## Commodore Amiga CD32
-| Emulator                                         | FOSS          | License     | Free | Active | Recommended | Emulated systems     | Platform |
-|--------------------------------------------------|---------------|-------------|------|--------|-------------|----------------------|----------|
-| [Akiko](https://www.zophar.net/amiga/akiko.html) | :closed_book: | Proprietary | :x:  | :x:    | :x:         | Commodore Amiga CD32 |          |
+| Emulator                                         | FOSS          | License     | Free | Active | Recommended | Emulated systems     | Platform   |
+|--------------------------------------------------|---------------|-------------|------|--------|-------------|----------------------|------------|
+| [Akiko](https://www.zophar.net/amiga/akiko.html) | :closed_book: | Proprietary | :x:  | :x:    | :x:         | Commodore Amiga CD32 | :computer: |
 
 ## LaserDisc systems
 | Emulator                                               | FOSS         | License      | Free               | Active             | Recommended        | Emulated systems                    | Platform |
