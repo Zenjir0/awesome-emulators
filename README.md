@@ -78,11 +78,11 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Atari Jaguar/Jaguar CD
 | Emulator                                                  | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems              | Platform |
 |-----------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------------------|----------|
-| [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :closed_book: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD |          |
-| [Jaggy](https://www.zophar.net/jaguar/jaggy.html)         | :green_book:  | Source available | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  |          |
-| [Jagulator](https://www.zophar.net/jaguar/jagulator.html) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  |          |
-| [Project Tempest](http://pt.emuunlim.com/)                | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  |          |
-| [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD |          |
+| [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :closed_book: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | 💻       |
+| [Jaggy](https://www.zophar.net/jaguar/jaggy.html)         | :green_book:  | Source available | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | 💻       |
+| [Jagulator](https://www.zophar.net/jaguar/jagulator.html) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | 💻       |
+| [Project Tempest](http://pt.emuunlim.com/)                | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | 💻       |
+| [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | 💻🍎🐧   |
 
 ## Commodore Amiga CD32
 | Emulator                                         | FOSS          | License     | Free | Active | Recommended | Emulated systems     | Platform |
