@@ -32,6 +32,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Globe       | :globe_with_meridians: | Runs on the web                    |
 | Robot       | :robot:                | Runs on Android                    |
 | Mobile Phone| :iphone:               | Runs on iOS                        |
+| Question    | :question:             | Unknown or still in development    |
 
 
 
